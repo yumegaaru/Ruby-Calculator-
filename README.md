@@ -1,6 +1,5 @@
-# Ruby-Calculator-
-# Yunlu Hao
-# readme.txt
+
+# README.txt
 
 Basic Work
 
